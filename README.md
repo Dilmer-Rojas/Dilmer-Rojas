@@ -40,14 +40,29 @@ Microsoft Excel, Microsoft Word, Notion, Microsoft PowerPoint, Google Sheets.
 ![](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+## Other technologies
+
+<div align="center">
+  
+  ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+  ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+  ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+  ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  
+</div>
+
 ## Projects
 
 Check out some of my most exciting projects:
 
 [Project 1](https://github.com/Dilmer-R/Rick-And-Morty.git) : A brief overview of the project and its functionality.
 
-Project 2: A brief overview of the project and its functionality.
-Project 3: A brief overview of the project and its functionality.
+[Project 2]() : A brief overview of the project and its functionality.
+
+[Project 3]() : A brief overview of the project and its functionality.
 
 ## Education
 
