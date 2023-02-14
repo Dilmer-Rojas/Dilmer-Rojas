@@ -58,7 +58,7 @@ Microsoft Excel, Microsoft Word, Notion, Microsoft PowerPoint, Google Sheets.
 
 Check out some of my most exciting projects:
 
-[Project 1](https://github.com/Dilmer-R/Rick-And-Morty.git) : A brief overview of the project and its functionality.
+[Project 1](https://github.com/Dilmer-R/Rick-And-Morty.git) : App developed with React + API (Rick and Morty).
 
 [Project 2]() : A brief overview of the project and its functionality.
 
@@ -66,9 +66,9 @@ Check out some of my most exciting projects:
 
 ## Education
 
-I'm currently studying Systems Engineering at [university name], and I'm expected to graduate in [year].
+I'm currently studying Systems Engineering at [University Name], and I'm expected to graduate in [2025].
 
-## Let's Connect
+## Connect
 
 I'm always happy to chat! If you have any questions or just want to say hi, feel free to reach out to me at correo@gmail.com.
 
