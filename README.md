@@ -15,7 +15,7 @@ I love keeping up with the latest trends in the tech world and tackling new chal
 
 ## Skills & Expertise
 
-I'm proficient in several programming languages, including PHP, Python, C++, and JavaScript. I also have experience in web development with HTML, CSS, and JavaScript, and I've developed mobile apps for Android. Additionally, I have skills in databases, algorithm design, and data structures.
+I'm proficient in several programming languages, including PHP, Python and JavaScript. I also have experience in web development with HTML, CSS, and JavaScript, and I've developed mobile apps for Android. Additionally, I have skills in databases, algorithm design, and data structures.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
